@@ -1,2 +1,2 @@
 # odin-recipes
-this is a cooking recipe website. It was done using purely html. There are 3 recipes total which are lasagna, potato kugel and carrot ribbon salad. Each of the recipe pages utilizes reference link for easier navigation, image for better illustration as well as both ordered list and unordered list.
+This is a cooking recipe website. It was done using purely html. There are 3 recipes total which are lasagna, potato kugel and carrot ribbon salad. Each of the recipe pages utilizes reference link for easier navigation, image for better illustration as well as both ordered list and unordered list.
